@@ -5,15 +5,18 @@
 
 .brown {
   color: brown;
+  font-weight: bold;
 }
 
 .striped{
   color: blue;
   background-color: yellow;
+  font-weight: bold;
 }
 
 .red {
   color: red;
+  font-weight: bold;
 }
 
 
