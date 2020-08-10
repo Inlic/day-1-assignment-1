@@ -1,0 +1,24 @@
+.name {
+  font-weight: bold;
+  color: navy;
+}
+
+.brown {
+  color: brown;
+}
+
+.striped{
+  color: blue;
+  background-color: yellow;
+}
+
+.red {
+  color: red;
+}
+
+
+.animal {
+  font-weight: bold;
+  color: black;
+}
+
