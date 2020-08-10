@@ -27,8 +27,8 @@
 .animal:after{
   content: "";
   display: block;
-  margin: 0 auto;
-  width: 66%;
+  margin: 0 0;
+  width: 64%;
   padding-top: 20px;
   border-bottom: 5px solid black
 }
